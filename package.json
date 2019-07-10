@@ -1,0 +1,18 @@
+{
+  "name": "serverless-node-app",
+  "version": "1.0.0",
+  "description": "full node application deployed to aws lambda",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "serverless",
+    "node",
+    "nodejs",
+    "lambda",
+    "aws"
+  ],
+  "author": "MB",
+  "license": "ISC"
+}
